@@ -1,8 +1,5 @@
 # Sudoku-Solver
-A C++ Sudoku Solver using the Backtracking Algorithm.
-# Sudoku Solver
-
-This project is a C++ implementation of a Sudoku Solver using the Backtracking Algorithm.
+A C++ implementation of a Sudoku Solver using the Backtracking Algorithm.
 
 ## Features
 
